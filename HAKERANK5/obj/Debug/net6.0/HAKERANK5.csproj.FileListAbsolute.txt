@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/HAKERANK5/obj/Debug/net6.0/HAKERANK5.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/HAKERANK5/obj/Debug/net6.0/HAKERANK5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/HAKERANK5/obj/Debug/net6.0/HAKERANK5.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/HAKERANK5/obj/Debug/net6.0/HAKERANK5.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/HAKERANK5/obj/Debug/net6.0/HAKERANK5.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/HAKERANK5/bin/Debug/net6.0/HAKERANK5
+/Users/osmanbatuhankalkan/Desktop/HAKERANK5/bin/Debug/net6.0/HAKERANK5.deps.json
+/Users/osmanbatuhankalkan/Desktop/HAKERANK5/bin/Debug/net6.0/HAKERANK5.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/HAKERANK5/bin/Debug/net6.0/HAKERANK5.dll
+/Users/osmanbatuhankalkan/Desktop/HAKERANK5/bin/Debug/net6.0/HAKERANK5.pdb
+/Users/osmanbatuhankalkan/Desktop/HAKERANK5/obj/Debug/net6.0/HAKERANK5.dll
+/Users/osmanbatuhankalkan/Desktop/HAKERANK5/obj/Debug/net6.0/refint/HAKERANK5.dll
+/Users/osmanbatuhankalkan/Desktop/HAKERANK5/obj/Debug/net6.0/HAKERANK5.pdb
+/Users/osmanbatuhankalkan/Desktop/HAKERANK5/obj/Debug/net6.0/HAKERANK5.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/HAKERANK5/obj/Debug/net6.0/ref/HAKERANK5.dll
